@@ -1,3 +1,4 @@
+以下是我大三下学期参加挑战杯做的项目。
  基于python+Django+Mysql的高校实验室药品分析管理系统项目实战
 
  项目结构LabDrugManageSystem：
